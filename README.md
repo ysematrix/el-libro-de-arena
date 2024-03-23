@@ -1,6 +1,4 @@
-# el-libro-de-arena
-infromatics proj beta alpha gamma edition
+# rotas flores de nishikori 
+(nishikori's broken flowers)
 
-my informatics project or what i hope it would be someday, idk lol 
-
-P.S. ushakov sir, much obliged
+c++ sdl 2d top-down shooter
